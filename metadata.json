@@ -1,0 +1,13 @@
+{
+  "name": "Sil Hi-Tec",
+  "symbol": "SHT",
+  "description": "Sil Hi-Tec is a meme token giving access to a special discord for DEGENS ONLY!.",
+  "image": "https://files.oaiusercontent.com/file-OejgnX5CKE5biK6r8Z9GLYy3?se=2024-03-22T07%3A36%3A42Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D0fe1b7af-47fa-4297-b758-6d16d2284795.webp&sig=aUUJ0KDVXmwjTlxWLQlizI3QhXi6f1yOAWlyK8ePsPs%3D",
+  "attributes": [
+    {
+      "trait_type": "Foundation",
+      "value": "Solana"
+    }
+  ],
+  "external_url": "N/A"
+}
